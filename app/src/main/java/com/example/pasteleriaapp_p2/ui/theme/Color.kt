@@ -2,10 +2,12 @@ package com.example.pasteleriaapp_p2.ui.theme
 
 import androidx.compose.ui.graphics.Color
 
-val Purple80 = Color(0xFFD0BCFF)
-val PurpleGrey80 = Color(0xFFCCC2DC)
-val Pink80 = Color(0xFFEFB8C8)
+val LightPink = Color(0xFFF8C6D5)  // Rosa pastel suave
+val DarkPink = Color(0xFFFA3D75)   // Rosa más fuerte
+val Cream = Color(0xFFF2E1C1)      // Crema suave
+val LightBrown = Color(0xFFD0B097) // Marrón claro
+val MintGreen = Color(0xA5F0C2)    // Verde menta suave
 
-val Purple40 = Color(0xFF6650a4)
-val PurpleGrey40 = Color(0xFF625b71)
-val Pink40 = Color(0xFF7D5260)
+// Colores secundarios
+val DarkBrown = Color(0xFF6F4F3A) // Marrón más oscuro
+val Beige = Color(0xFFD8C8A3)      // Beige suave
